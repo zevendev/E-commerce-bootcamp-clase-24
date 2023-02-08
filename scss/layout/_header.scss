@@ -1,11 +1,3 @@
-@import "abstracts/variables";
-@import "components/cards";
-@import "base/reset";
-@import "base/typography";
-@import "layout/header";
-@import "pages/home";
-
-
 .main-nav{
     background-color: $color-bg-primary;
     color: $color-text-light;
@@ -30,5 +22,4 @@
     }
     }
     }
-    
     
